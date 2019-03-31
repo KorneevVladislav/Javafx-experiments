@@ -4,9 +4,9 @@ import javafx.scene.paint.Color;
 
 public class Unit
 {
-    int x;
-    int y;
-    Color color;
+    private int x;
+    private int y;
+    private Color color;
 
     Unit(int xaccess, int yaccess, Color c)
     {
